@@ -9,6 +9,10 @@ Results:
 There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 Summary:
 
+![alt text](https://github.com/PDob02/surfs_up/blob/main/June_Temp.png)
+
+![alt text](https://github.com/PDob02/surfs_up/blob/main/December_Temp.png)
+
 The three differences between June & December weather is as follows. 
 
 First, June is hotter than December but only by a 3 degrees on average. They both retain similar volitily of around 3 degrees. This means that most of our months are viable options for opening this stand. It also did not take into account precipitation or other weather patterns that might defer potential customers. Based on tempereature alone, these months are almost equals. 
