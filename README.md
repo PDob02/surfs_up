@@ -1,11 +1,11 @@
 # surfs_up
 
-###Surf & Ice Cream Shop Analysis 
+### **Surf & Ice Cream Shop Analysis**
 Module 9
 
 The purpose of our analysis was to see the viability of opening a Surf & Ice Cream shop in Hawaii based on weather statistics. Our partner & prospect W. Avy is interested in running statitisics for the months of June & December as they are opposite ends of the temperature spectrum. He has been in business before and it has failed so he is extra certain to check the weather patterns since the number one goal of business is to make sales and turn a profit.
 
-Results:Our results proved to be very moderate from a temperature standpoint. It may make sense that June would get the most seasonable business but it is only slightly hotter than December. 
+**Results:** Our results proved to be very moderate from a temperature standpoint. It may make sense that June would get the most seasonable business but it is only slightly hotter than December. 
 
 Summary:
 
