@@ -1,12 +1,10 @@
 # surfs_up
 Module 9
 
-Overview of the statistical analysis:
+The purpose of our analysis was to see the viability of opening a Surf & Ice Cream shop in Hawaii based on weather statistics. Our partner & prospect W. Avy is interested in running statitisics for the months of June & December as they are opposite ends of the temperature spectrum. He has been in business before and it has failed so he is extra certain to check the weather patterns since the number one goal of business is to make sales and turn a profit.
 
-The purpose of our analysis was to see the viability of opening a Surf & Ice Cream shop in Hawaii based on weather statistics. Our partner & prospect W. Avy is interested in running statitisics for the months of June & December as they are opposite ends of the temperature spectrum. 
-Results:
+Results:Our results proved to be very moderate from a temperature standpoint. It may make sense that June would get the most seasonable business but it is only slightly hotter than December. 
 
-There is a bulleted list that addresses the three key differences in weather between June and December. (6 pt)
 Summary:
 
 ![alt text](https://github.com/PDob02/surfs_up/blob/main/June_Temp.png)
@@ -20,3 +18,7 @@ First, June is hotter than December but only by a 3 degrees on average. They bot
 There is a high-level summary of the results and there are two additional queries to perform to gather more weather data for June and December. (5 pt)
 
 The only other relevant query to provide would be precipitation for June & December. This would provide rainfall or natural events that might deter customers from leaving their houses and shopping at our store. Additionally, you could search out other months like September & March to get a fuller picture of what a year in Hawaii looks like from a climate-perspective. 
+
+![alt text](https://github.com/PDob02/surfs_up/blob/main/June_PRCP.png)
+
+![alt text](https://github.com/PDob02/surfs_up/blob/main/December_PRCP.png)
